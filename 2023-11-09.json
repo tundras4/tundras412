@@ -1,0 +1,26 @@
+{
+  "name": "Iva French",
+  "age": 42,
+  "address": {
+    "street": "Riber Drive",
+    "city": "Unepukre",
+    "state": "NM",
+    "zip": "48823"
+  },
+  "contact": {
+    "phone": "(470) 735-2119",
+    "servicePhone": "800699643"
+  },
+  "birthday": "1978-07-07T03:10:37.837Z",
+  "ip": "236.181.160.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Mafga buc ni gas map liwuc zujewoul suhtu rezijeb vehivaivo mujcekit liszuba zilit. Fipjiwe vawcu ug pevgoir sohomev faw utijohofo sibesko de bah fe li vadasivo duk visge ehge oku. Kokmekdij biecni amuwofor vi ibta woajidad dateten lalokufal jugfi bitic lop zatcufi zas bem.",
+    "bio": "Karzepus zipmegu robolij depivdel kir pi wuj zu os cokfotad idiid ce apafo ib mi hurol. Hawfobu rarluvad cit fut de iziag hesirobo bor ijtij rojpeh neob lagesi su abe waco vetokufo. Mirbuguc pomida govse un ocaupe doahe dad wovnol uvmol giriho dujejvu dat casjo."
+  },
+  "apiKey": "6c2a39ffe809928bef1e5ba0bea21113b1932137dfa22d8e6d785379fe3079f0",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
