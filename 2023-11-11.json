@@ -1,0 +1,26 @@
+{
+  "name": "Clifford Park",
+  "age": 63,
+  "address": {
+    "street": "Konuk Park",
+    "city": "Jiofevis",
+    "state": "MA",
+    "zip": "68394"
+  },
+  "contact": {
+    "phone": "(613) 204-8238",
+    "servicePhone": "800121577"
+  },
+  "birthday": "1997-08-31T14:50:35.140Z",
+  "ip": "128.195.68.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Bob jepekabo bi ovehokho bodnesru iveruv ihojis lohohru hu nerow uwasoca ti. Zegre jijdib ir cihon zoid acjetzat cedroflaz kiglogcor sihraes ulisosvu boce gid sogdu kub vognol jid baceke ut. Falej pofzaah naram binu zoejo owvuk edu weazumo tazju vecego fumudkul du gifomosu is tosi puhidih fiwhivut za. Ikhim wizo ud adete buswebmu vicgaklo meifoc ekageibo horcuacu fa ecdis dol vodherhi.",
+    "bio": "Samhej ne kegug apdub nij pipogi mowu um ozaedale pikelo ove ov owaagzi mabawav lew gegifa ab. Ogauca awuup sicarko nuakhes coapu hil ufanuga ge ofi ukfu iti eb mi upe mozdo lowiledu. Si guok wawe kuh suf ahfoeb tasfiho tasbugre co ha ala noodi iv mu jisnut elefom pelnarvun. Vicul verofu tatapwuz maz pupzur afu kaotte tankudvif uwkasata bu fim ni erailifi tiruhbav tiojlu tozov geuf. Naufmet ganhifiza puwot hornaput loj awat vamo ni bado gajev womwiz ma vidhab."
+  },
+  "apiKey": "fd4500436688ebcf3483180bb96fe50fd3db6f66ed3ee82ef8a7c5a07f7a5fb5",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
