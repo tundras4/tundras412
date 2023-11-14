@@ -1,0 +1,26 @@
+{
+  "name": "Rhoda Baker",
+  "age": 62,
+  "address": {
+    "street": "Jesam Extension",
+    "city": "Pupgogec",
+    "state": "NV",
+    "zip": "32242"
+  },
+  "contact": {
+    "phone": "(205) 229-7770",
+    "servicePhone": "800361984"
+  },
+  "birthday": "1961-11-07T02:17:45.670Z",
+  "ip": "175.45.197.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Mibo kol uhowa zoho du pi wotiwdig opoca vodu pa wideb cof obeiho vafwaw ah. Dazo huwubi wimdi bulzu neahe ge kijohed kolazowas josha judtoz idusob me. Ric ogu gesgev sonomo tujti lahocod vugnow omatubef ih tef onta gihekpog seho vavju fadihal nirjar moembi. Iwozo ri fi vi ga kavuke sozpeegi diwe wugamiot eb cu nofosfo zudad salduw fusu.",
+    "bio": "Hif da baz umeb geg riklegij tiel vobbinif mazfedhun rarolok suj vaf ka perwigo digul ocu. Vulop mosid mo bi zaru esutoknu wa cabiruf gogi romu ed ob zet digtog zipde. Ritfadme ne lu ferrinhag semzegav ecbu mumuk vujre hup fupbucsow hob dam evitamo ega celacu."
+  },
+  "apiKey": "c7efc0e1f257fc21c9cc9863a7ff94c032190eef010d6fa4e6e8b439eba0c654",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
