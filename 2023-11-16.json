@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Coleman",
+  "age": 55,
+  "address": {
+    "street": "Zajna Way",
+    "city": "Jieribak",
+    "state": "OR",
+    "zip": "99810"
+  },
+  "contact": {
+    "phone": "(555) 948-7098",
+    "servicePhone": "800177856"
+  },
+  "birthday": "1999-09-26T08:17:29.428Z",
+  "ip": "113.27.226.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa voon wes basel olfopwu kog paw uveradtes eteba ginut pa ikmet. Ditiaz ne wermetfam zi sudtof tunobez boguc viv hu dohozew pel sivo vuaniwak fimeti ki nupiodu. Kez co asvuke ficineocu usi lejat efisod gegom boj idakav zubfot sihig kos mutfo. Bo roppesap uvosoiwa vizza itaukmon waffepo waluv zegejega vabtavami jehne ag nohdurnin tawublo pazere weh.",
+    "bio": "Ha finafosa mocemhop ulwas famja ag viwetje huril nufhet mujwaha gat sizejvip suugi. Suuru laje ip vadiw taus elobotas ita epa bahu fo wi zih fi numjo irebeb afaca muf rihnafuro. Pokup usjanve map ujo agolasuh va samoaze adoca buwfewdid hisger luke lu ara ake."
+  },
+  "apiKey": "d9d984a79cf6a9d99e085839bf0b5c21e26cea4739dd18a234afb6a69b16c62b",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
