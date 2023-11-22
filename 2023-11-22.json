@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Hogan",
+  "age": 36,
+  "address": {
+    "street": "Nivus Ridge",
+    "city": "Kazakaz",
+    "state": "AZ",
+    "zip": "74749"
+  },
+  "contact": {
+    "phone": "(242) 991-6139",
+    "servicePhone": "800652662"
+  },
+  "birthday": "1980-01-20T13:43:33.131Z",
+  "ip": "67.56.116.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Garim rija su nojhon vet elego vivpupon ikowog wag uwo opofogizo kagvu jaske legdu bi loto dofcu og. Wurim wubem sa jorihaaz tizmowom soro be mivumner ino kuhmop pevaw ez bipej. Mujo upeis atase denmudot lohelu wokofce we pa ufmomje fohwer cupmev cudpizim jasiruw mufufhil pen pinizil. Ro fumjamzi ussa ucbagud lipu sifme oma jo gos etahoj cir pesobvap ketzeco vuosra iwozote sot funuz.",
+    "bio": "Ge bumipfav eci ge relibiw je rahir cihsu feog le dedkaljuh agiid bujmada cinenuon juvjut ipahuleg tadoliaw delo. Zojhiem lohewij dit no nefe zucma sasvuvec nevhuzni besdousi ret er mo asbili. Vopa suedda ze ujrorip zom fefnij asuhe artelar hir wakjapju dimjoz wet boc. Vogbinu adiga naob hu cevi luhic je hojolig ewzi ohgu nuje wec gudpuwmuv vuzuh. Penbi carfil gi peri rewoni atve li kolcorir noh cederov gaohwe ruce vewous tucivifu se zocas."
+  },
+  "apiKey": "f53b26e2f4e57eadaa602858e1345d8ea22e6b253bdb6967ae7634962921e27d",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
