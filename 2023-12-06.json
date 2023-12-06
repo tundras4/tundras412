@@ -1,0 +1,26 @@
+{
+  "name": "Paul Bryan",
+  "age": 35,
+  "address": {
+    "street": "Ririz Loop",
+    "city": "Afudeim",
+    "state": "CA",
+    "zip": "86105"
+  },
+  "contact": {
+    "phone": "(910) 698-7553",
+    "servicePhone": "800184936"
+  },
+  "birthday": "1987-01-03T09:23:35.280Z",
+  "ip": "58.114.249.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Vengir agevogro gi si ezoafa iwumidewa ga saw woplu sawu coglebjuh ul josti zazor. Kat asuvebbe palakeb du fijolwu mi ol apsemut duhlazsa to par bolcisi forat. Wiw wita ivliloc ipakael pisairi itu go zoziwti uh luwvip oku sofum ejmi ocaazhu bizmiznu diflap je le. Ar ihe dunko padgij me hu dobgimram ukmo urgo vionlor wek towup puk. Egbi hicu cikojsuk ujgodhes jojez rucegcu aj uj ninape wel tic hetlec gedtov zijwulup mar vucazhod. Farpew dipaj du zoekodal zohpug efkunuv ez bilbej arwe ivi uvore si duobovop isukje iga aldog.",
+    "bio": "Zop ra puez jupedob fiis na ibeboh roz rerba vo wowjed soh. Cafe nobsodcir von zapvig rihosumu tahew didcedo viwjente hozgegen foj icho tatos fufeli bobja ciagi. Tage na lulvejuf oh pidil ho poewba ic nofiabi fivocgi rakludrac utkavkak zohkec bu kas. Mah fosnulak gejcavo kukotge pil fadlolpit hildogjos ceku pugid ma fimdoj it peetuca."
+  },
+  "apiKey": "0f002770fc2bf8ab64b0156b4098acc4aa6bbb86f8b025cbd0f0d8f3575155d3",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
