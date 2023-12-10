@@ -1,0 +1,26 @@
+{
+  "name": "Clarence Duncan",
+  "age": 41,
+  "address": {
+    "street": "Paho Turnpike",
+    "city": "Osapac",
+    "state": "AR",
+    "zip": "89251"
+  },
+  "contact": {
+    "phone": "(735) 410-7762",
+    "servicePhone": "800584316"
+  },
+  "birthday": "1980-11-25T22:39:32.609Z",
+  "ip": "176.219.99.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Lomkukfi itlehin fu kuroja vikdawo ci mo higvo nap vogcoluh kab nu jale matci. Lopta ogfefiv lojip ludano bomlikkaz li un pusimpos zip jib po uce. Vesak efujafu lacboraze fulwom voazo ceucalu ojadog jise dan ro ugusu omi deksu ir wojzoz vorutto.",
+    "bio": "Pohale ta tizrioso zaduwiz iwo ja ji cokufaj ofre duhor javvani zule jifjane fim. Ukju cifoj bo vuhusdo duficuhed bizom piilwah utsiwop seef uvseheh azeduebo ucvo vecijpev ekeij ho. Niva zazot tollehod ecu rup ir fonepruz cezhe opatuszun pew fer suk nurus nokakpov tocego ranutaz ca ikamo."
+  },
+  "apiKey": "03dc815a78fcbc5a855b618e62cecf125b5909fdf3b3ace9560819878bc0f298",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
