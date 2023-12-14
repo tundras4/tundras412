@@ -1,0 +1,26 @@
+{
+  "name": "Loretta Wagner",
+  "age": 42,
+  "address": {
+    "street": "Nissam Road",
+    "city": "Kibzegit",
+    "state": "CT",
+    "zip": "40915"
+  },
+  "contact": {
+    "phone": "(706) 298-2003",
+    "servicePhone": "800763932"
+  },
+  "birthday": "1995-01-11T04:12:17.014Z",
+  "ip": "104.71.29.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Dop miw buzova tuvevgi evesevzeg zihfiwpaw uvmi va werbakaz kep alo kothaf apasemhid emoewoho. Bofdadrom du juvne sozvaji va vec peru ko edlilris vosuprum dismijuw ne kodocgi zirhi callir dirulge marrozgil. Vudas ivtoke adi wilisibu gurepi haskuti ut woz wec madbej zed kimij dutzi. Sikeba lihel ovideuza kimpi hig ati upiluh pogo inzugu an uhto fo vi poj gadtuk cowgas wek wih. Hu luzkajo igvaed daga ejruzoh tuj jedwu pidozos ga vi awraduw konagehu hetfi na. Vu ezonobrib uhnaro ruzrocbo namkobas ji jolbiri ti iwji ojo cajodu zevak eku senaced mipzaw appov.",
+    "bio": "Wef wud rilep urjo bozdi tucif wugku hiwwion wav ud mav oge mawokzaj orin og pogetje dunmeg bidab. Dugouh netnakoli ure ivfohwes wovupki bot moz merak so ze bepewiv vivog gevmage pafzu mu. Pa kurcaz vi dujvu ehunefud nife bal jupahu nirij ohu vobalvam mektunlov gewu."
+  },
+  "apiKey": "996ef149f6e5af419f3d17f0680a5f6a80c06fdab7c5642b00d521a9715a8a3f",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
