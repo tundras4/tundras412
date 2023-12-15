@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Rodriguez",
+  "age": 37,
+  "address": {
+    "street": "Efiim Point",
+    "city": "Asorogte",
+    "state": "GA",
+    "zip": "05660"
+  },
+  "contact": {
+    "phone": "(608) 313-8129",
+    "servicePhone": "800293857"
+  },
+  "birthday": "1970-02-06T16:03:59.188Z",
+  "ip": "230.66.181.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Rueba efe rokop mejopsen okebine co menore napuwlod iho zudjapihi ne cimil. Bumcizlo ke zimali su botoc fomlo iwato diwfozonu sadu pasnot awoko fir mup gofuwid selope. Nipofir rarwoh gigaliw meibo di kos gowunkeb tuldaju kivpomis japivpun ja bagvu.",
+    "bio": "Pob jadgo limun kumzen linuj mu etibuoh ewweud padipjih on pake ucaore hudo no lil okufav kihgeckug cifot. Hefesaz ito tewuwuc ku relvul icabehni upa nasa pacujnow sac zolitjoc izu nib. Zo kolculrah ih onutezuh azoha duroz ve rup ked bobikilu hacpir kawe upikinev. Ujo ho gonotzip ebzuc ub ko ot ackaz seclor mazatsav mesdu vir."
+  },
+  "apiKey": "8d12a6d14aa385e85ba9753460f8bd0987a9ac1f3048d41cca3d38e5541c084d",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
