@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Atkins",
+  "age": 50,
+  "address": {
+    "street": "Alse Way",
+    "city": "Behletlo",
+    "state": "OH",
+    "zip": "32700"
+  },
+  "contact": {
+    "phone": "(904) 619-4550",
+    "servicePhone": "800772687"
+  },
+  "birthday": "1968-07-16T19:51:40.531Z",
+  "ip": "63.14.202.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Zah hobos hej caffuva eh legic pojde wenne zinvofed kod pimfas hahlow raveh lis wiuw izu utoehewit vutupek. Cizo fitetuge mev uka suh or ju vogisin buro paam do ce sisa. Afofufu fu noebo luwceve tojicrag akozinmad za ji anaih ara hijicfuc pirmu ofovap hiopufad loucu.",
+    "bio": "Vijula li makwig vur ce moza tuze pefhari baet dupij reli lotzehod ubihir. Ibemulac okluisa abe dah ziubmu nupjur luma saifa do umulo pinakehe nawgofub lufjabce. Itu ku fatpovbum dusci mo fodijo kucos igdap ucjufsum fodumo jipogusa gipuzroz necefber ga labucna osomocaj surbicdo. Werrub lubcuhur di tovirvim nohof javnecep fabanzo lifebgo ono pu fuj owfonuh owarial ti pooc. Pi ivmebli do mir bovwak wuj hu nuwcokis to buneziceg afosagbab lem. Behda ojakmuc davugo wunar fomaod johumik jus fol zeskif hizu gebuto bi uwe ichiccen para. Kadne pa fookiv zofu wuze zocer ovibejocu hid pendiihe hir ofu he kak owopokcek ugpob tewopmu kullit komorop."
+  },
+  "apiKey": "a5f5d96279ba6ec1f43e0a54723831517dea5f67babfe0dbd5f2edefcdd68aaf",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
