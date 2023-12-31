@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Flowers",
+  "age": 27,
+  "address": {
+    "street": "Teufu Turnpike",
+    "city": "Kojihno",
+    "state": "LA",
+    "zip": "84450"
+  },
+  "contact": {
+    "phone": "(626) 737-6053",
+    "servicePhone": "800374923"
+  },
+  "birthday": "1978-06-04T02:19:11.027Z",
+  "ip": "183.122.160.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Hirow novevena gujat piel sajticos fovzu das henut opito bicwased varbe vujebi bijum. Tamu neji zo bosocagos le ad hep tinri geniru toce riboge siavape. Bekoftes sipej ceuj potaav fip ra wejcatid nupa mud icosohe fit rokrivir refzubzob bohla uzhusuku ti.",
+    "bio": "Gasihfa ma zugupe kailnav uzaf wiczeg geadko sabkiobu gogvafsut emo dun pagba keddi boredci riwupik um. Ev oz muazi po zuk vilig mekere jasmaj ojbid kijum hakkolji ar mal kegtemre lesti mowjap oso geruv. Lurasa cujra uz poiweni rihbu ucatu lu dogahon elcewer sucverpid enera ovonajzod zor iz sebpof. Fucogtat bon nifta ziw putudnu wuz vutujjah jat zoha ovelik ne rakaz. Giwzok hi husosizo puz uvimzan to wivillu cugobedu udoba nocala ihajoiva esju izhat. Hosiszi ce loh de gawojad kufjunot rujanu apjak kisdal taamoaro afmo hecofpav menkoabe geflakza jamlaumo we. Jejfeap oduzeol mu po vihobviz umehoc gubeisi rev ufvoheg acocode wap milmevhuh hohabocuh gehfug uso dob dewiso."
+  },
+  "apiKey": "23ee471efaea8b8a40d78a83488af5ae79adc10e05836e4fa555e151fecc8ca9",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
