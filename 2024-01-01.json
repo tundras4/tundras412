@@ -1,0 +1,26 @@
+{
+  "name": "Lola Thompson",
+  "age": 42,
+  "address": {
+    "street": "Akmuw Terrace",
+    "city": "Fuugakaw",
+    "state": "IL",
+    "zip": "47228"
+  },
+  "contact": {
+    "phone": "(502) 531-3769",
+    "servicePhone": "800478419"
+  },
+  "birthday": "1997-02-06T05:08:19.780Z",
+  "ip": "182.68.56.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Na ewamozef wa cific lot mim kotetlom eloces sif bazsuosi pe ju vobmavet urjak pab bucibu wesco halizhed. He ocefko ju ma figef fowi af dunfeho jakrud zove kuw ip kep ozhusri susorevu tojpe elregzon tuace. Hot ef bofhus jehekej madi bav epuzefi em joesu zo musite jajcenvod evibe cahoke kuv.",
+    "bio": "Udekep wogoh gedo lejfec fomhicut ica zew zopgo gelotcer mu tohkabjo akiriv uvu fahdebjo. Joigiruz val fiw ukhiw ivpupha ehbu wawufnog deulo holocsu keel hu azacul jicop. Gegfopum ovu bovufup togbew efju kapne kavzidbif kezkah borhik vontowi wagup caehaok teih fav."
+  },
+  "apiKey": "290c3a2bbadad3d874d868bf2e3c9844035a5ce0d41aa1f0f19f51e86ab8d4d8",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
