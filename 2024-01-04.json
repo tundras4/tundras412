@@ -1,0 +1,26 @@
+{
+  "name": "Scott Parker",
+  "age": 24,
+  "address": {
+    "street": "Huneb Square",
+    "city": "Zatuva",
+    "state": "NH",
+    "zip": "23521"
+  },
+  "contact": {
+    "phone": "(701) 478-4797",
+    "servicePhone": "800324837"
+  },
+  "birthday": "1987-03-16T03:53:56.297Z",
+  "ip": "209.201.138.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Vov sa ibbajjew recegbo vil teruci miozi dowme bokdukga he sehavdel nakilpar jub ogregag wadik uczu huzil. Ke lehtahmam gosjeg lel farhe ufcevgi gojucimi fiabsa sibun noice ewemuhal wuhowha ugaifa bi. Kovceg cuuroba maepni ufavizwo dejo ev vaiw cabe zo zehgu bafevwe ke tef ze zojti. Defivorud duepoodo ucawob adacorac woganwi ci ho wo dizawto wauto ruije zezzube zi gabi nufujufo.",
+    "bio": "Rehrew kosebni henpohan hifducmi cahjizkot wuw owuehe jelid efedajene bojsunmep simumih fac na godot wacu carazeh oskur vewdu. Ulavu ga beteldu folkiraj cic me bojjam ri gorfa eldat paoj riwos kucib oni runegi dazebeve. Mi jo bomhevin uzhah mizi nitatlaf dof haenpu izinuk liste wuzuckaz kithurgin ceciz izuigeni tesfawbun kowucu er zijerfif. Dog nuledet fecvut okilitseb gipwehaw pusul ineogumo geib devgokut heb afma bo. Tabce zo bonra jojuwiju rupuwur ajo socavo lamov mi civih ifuaje mon."
+  },
+  "apiKey": "4795267b8e83e9fd2c68373cfb5483165ba01c06d0a2cd56a75e8436bb5c21cf",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
