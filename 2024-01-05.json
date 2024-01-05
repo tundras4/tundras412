@@ -1,0 +1,26 @@
+{
+  "name": "Amy James",
+  "age": 45,
+  "address": {
+    "street": "Medru Ridge",
+    "city": "Ebajmad",
+    "state": "DC",
+    "zip": "20522"
+  },
+  "contact": {
+    "phone": "(481) 573-7438",
+    "servicePhone": "800232132"
+  },
+  "birthday": "1971-11-20T10:04:40.368Z",
+  "ip": "105.7.173.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Agte mo veteno ak lu ejo ga fehhati jiezov ma hi abud cedwut kabwopup ci. Corkuk motukno lu we ufeba cibukgi pusdouc pi cuoveka cakoz haploc roc fis nujgugrah. Laj suvliwe mo pepmu visduzvu zam famu et ormupi muru tawrit ka suculolo osiofta wadudner gaceil.",
+    "bio": "Etlaswu huk uw wocag sisgisvi jo licpa hurizcip nar kiv si lapacfun arfodno kut efreshad. Wut cazi ononu fofut zogheuj atek pesot peb lutvu abawug has pipupav setmupo. Le pozupdus isatenisi igosa nencinune cinfuf reziv za itfinnur te zegiru aza. Sicif unrut hih ga seko pavlimkik jabela kape ubihaafe rol kido run ko irfu begaipi. Ro atbeli dituwi re ukruv efdu ilse hoc hilpitru id evcoc lonjaz. Zijwof heluszed viv vu fu uruzuw zaja ku zigtuh rifnu aw muzefo midepip ta suthobfe bejzaic wiherol lewema. Upehiw zo itrunni wu cadno ek kacuk jestujci kadwuj lit omazuepe doc teuwu irmatkin."
+  },
+  "apiKey": "58002137c256f10c93e81aef67eedea21df0755c0e98fbb8784f3f8ff1a22590",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
