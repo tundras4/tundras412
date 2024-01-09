@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Phelps",
+  "age": 44,
+  "address": {
+    "street": "Bujad Center",
+    "city": "Toggepop",
+    "state": "WA",
+    "zip": "32494"
+  },
+  "contact": {
+    "phone": "(339) 673-4590",
+    "servicePhone": "800559364"
+  },
+  "birthday": "1959-08-03T18:19:42.003Z",
+  "ip": "246.157.41.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Pib ho loru wuh uvu odace des atgu rewib vi okezowok wewig. Hof sejo gufasazu kec kumuihe kegujade urcik kos gijrodnud kuke sav af viz. Dutnije haike otzole hitigus uwo soza sih baspiv jognicluv lenal jojkor esu majiwo gosidlu ew isdil ih taveap.",
+    "bio": "Donbivce zuno kaikihat ec nafamnen kinmo fehgovdi pidildeh ev boijuzo kofdow zipsiktag gu sepem luudug. Tez umo zaugucak reulab jibu miksovas bapobivo fuocalam terohativ fol neekdaj uja lefkigfo kudus gusajun waturegi. Eclo sinanluv gahpodwij fojem hok ziju luoloofi la monaiz goillim ici idukojad muw ol koja piiz ziwigni."
+  },
+  "apiKey": "0424dd8ad66f80b16b31c4864f657ba5948a1c2a8585d89ee30a2f8179a5b2c4",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
