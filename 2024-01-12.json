@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Payne",
+  "age": 24,
+  "address": {
+    "street": "Vukid Drive",
+    "city": "Leduvcol",
+    "state": "LA",
+    "zip": "96515"
+  },
+  "contact": {
+    "phone": "(733) 881-7726",
+    "servicePhone": "800798949"
+  },
+  "birthday": "1985-01-04T18:36:27.812Z",
+  "ip": "4.203.238.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Piznoce zehrujbub riumabug ke pelahan agu ticfug uvuohfo akbic ata ve digikpot hego haj mep wekrabhig. Ugtitvaf javufe fomramvu baf hufaban ud zejak fom agutupnu ilu kilmo hemlar. Apibwi okagmu kihweh kujotsu fickukane cinotok tiewici has nezjuler ja etalev esiwesi napilfu udli wezezaho rivga.",
+    "bio": "Pokkud upiho nilwiz joehzi gesrun riguv izuk iz zolewez wilas urumu lu hiikejoj ih hal. Kosah jut fun puggab bondumbop ica wanrosit caproco aco rozzelve ha na da olaj wac. Hasvaum ebzimlid ihlec kalboj emaraes wuza fuvo gom sarzedre eg mi ebse eziraho fibfih rigdow cojsid rovejvaf."
+  },
+  "apiKey": "cbdc4fcdf9164d81fa9946cb7800837ee651b9333f27189341d37f7995c9336c",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
