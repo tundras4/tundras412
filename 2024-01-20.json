@@ -1,0 +1,26 @@
+{
+  "name": "Leo Soto",
+  "age": 39,
+  "address": {
+    "street": "Lirgob Trail",
+    "city": "Semanci",
+    "state": "WI",
+    "zip": "52211"
+  },
+  "contact": {
+    "phone": "(816) 810-6444",
+    "servicePhone": "800517243"
+  },
+  "birthday": "1985-12-29T20:07:38.016Z",
+  "ip": "86.166.67.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Fifdovak dati ju vi ho magmelac ufenazun iwfuve guz fiflonot vilega ho igpe li deb vurauf. Penmo fipwinzo hihsuhut epedutus upiji kofbu ne wo new ra boh emu. Mapivo imeha cubanoc nicmama mufugdor egimuk biw zuloho ojufi goadok vih bogis.",
+    "bio": "Ci ibido sulosa ako lelu ebizijda sim gu nu mocob vantuza tijsace uvli nat kahciw. Ros tumile atwitti cukbopik ughi kehlike nuefvi zeepu muvu vonuir ve uhizo so firjowun kafovari fo ubukeke. Kibtic haawuniw vabluf poh midvos vol raobeto rinitedo osdo zefwigpub epzipzi ofoma mal izisagu ad ni mohahzel. Wo otvo ru ufnaok ruazseg kerac gokedo ta dirano av guh tezoj kemfuc oki nisde po kij eb."
+  },
+  "apiKey": "3d0d6c13caac067b5107be7694afc06f3281d0ee9f4e4d9b4a3e188ca6c8bb9f",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
