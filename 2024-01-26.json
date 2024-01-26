@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Gross",
+  "age": 44,
+  "address": {
+    "street": "Mucola Manor",
+    "city": "Kipodiut",
+    "state": "MO",
+    "zip": "26911"
+  },
+  "contact": {
+    "phone": "(904) 954-8218",
+    "servicePhone": "800628832"
+  },
+  "birthday": "1962-07-25T09:16:16.662Z",
+  "ip": "144.83.200.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Bizo se dahaw otewe togobu musci ku fihta hib onciwka oce nuvemwar sa kuvowolan. Epfo ehuzueju kubva jefeb delmetlom ruregna va rona taifo so pasfe mug. Veiwa ofawugas web pu kojon veh min wanol pabehe deho kakzep weecu owo dob iha gerubo.",
+    "bio": "Wej met ulsikas bidi pefsi roti idecuru recuev gur liwzej foz tiugaoba ijrofpew merseka. Ni accu owan hetofen gapluj udozhef foc wu hasobih li ad zanu aptebpe ubfif wumpo hudtelih buvodek. Ca ri zal co en ohnoet vieg zotmuno sobi ukejecte veebate simdare fo jizejer comahhek jiroj."
+  },
+  "apiKey": "1ce59c85b861c5ac614b72c546dc3d6bb531e2886d75c340bdd1fe6f2aedf39a",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
