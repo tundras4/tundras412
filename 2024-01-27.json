@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Poole",
+  "age": 26,
+  "address": {
+    "street": "Huzta Ridge",
+    "city": "Wiosavat",
+    "state": "NC",
+    "zip": "76056"
+  },
+  "contact": {
+    "phone": "(642) 816-7197",
+    "servicePhone": "800624313"
+  },
+  "birthday": "1968-04-13T00:35:05.131Z",
+  "ip": "26.171.192.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Dorrok necvoen igi puwozawu coz ubha zuhvir ebeivko mak ropzot wimikso ruzfene jig wu beridfu. Vi tiko min sogzobmo bader vozodadu gen conjaete inuamo erhaswa ici opniphu baz. Izaila ja gumin fam mownetut jac ofiwoguh zedu ho zihsuglur ifjarzor izaidzal inbutu buuso tawucpu rojuhza tokok. Jo vasek cuvwu hofzaj dubog upivocih igacuce bicu udasora hatgor baj webaf lu umijeh bawe.",
+    "bio": "Jiduj acuarazi ved ra wufoulo ke dokcu uhevo zucodef du ne tazom nigni. Kef havolreg ab wo fo ab ham rigvu hagoz iz netoom toviw lufa sermot. Lidfez wojari dasijzi bi kigzoc jiggiwid peg nutfa betu lufoso emetelon buzmiro."
+  },
+  "apiKey": "c7d4f303999247d099aae75dc3c5ac4eabf02348e2daf7a038a9d9751d560515",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
