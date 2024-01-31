@@ -1,0 +1,26 @@
+{
+  "name": "Douglas Graves",
+  "age": 44,
+  "address": {
+    "street": "Tetpa Road",
+    "city": "Emacome",
+    "state": "VA",
+    "zip": "84267"
+  },
+  "contact": {
+    "phone": "(386) 888-5749",
+    "servicePhone": "800841297"
+  },
+  "birthday": "1998-07-17T20:20:22.842Z",
+  "ip": "141.227.157.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Kedimi tez weelsah fim kozwuhlin kakod welfa jom ror omovacrit pad koj bisses okonak hihev. Ihen dud umvucu doidamec kej edoafa pa goni gisu zuku keattug dokpersoj. Bef cooduca asewubul pawepuw fi la nigfas buuvtu jimok ocibo zurfulpot pozvocka fichoj camtiwopo dolovho atgerti hetpejpe musakdo.",
+    "bio": "Op sehgachew gilnilo hervedam ceer basedfot vu achepso itile esu tuto akhi eco rotazituc na. Nacbave bore zerpeji is fedjal te ko folmi ak kob zog hadje dobuzti wizcan ok hazrec gab matobtu. Laplo cifiz wotimair mekticpa dowetisur bot ge emu goci bo la dig ukpika fi. Cahsa zofnaj tof wemiidi uguhaniz fav to te wim vuvoweruf tivtav vu tenajeko ej."
+  },
+  "apiKey": "a581d820b91ed0a78b69c08697dce8be24e466d73b4c9d5bf43f9cdf39625dd7",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
