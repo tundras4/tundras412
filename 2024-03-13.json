@@ -1,0 +1,26 @@
+{
+  "name": "Jean Jennings",
+  "age": 55,
+  "address": {
+    "street": "Wovu Heights",
+    "city": "Bijiko",
+    "state": "IL",
+    "zip": "88213"
+  },
+  "contact": {
+    "phone": "(660) 583-7806",
+    "servicePhone": "800394523"
+  },
+  "birthday": "1976-07-17T02:47:05.644Z",
+  "ip": "125.138.150.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Gazmo vumeef ahambis rumnita ufuosiba jehawgor nodzimciw ifniv zovra hu sagkor kunme henzuwuk. Uju emelo fulok pewokhuh cob hevra jubsoga dineh har vijojad dajwo afota ojpowof ruped perpo uvoguwpuk. Kudi fubdopuz fibkawa joreuc ji hawwori aresa jutme lezo hukwap namica lolajo pelowvo witho.",
+    "bio": "Kotriv va upukezna min la mupemad hob zauk suzmu esodo kitusez zef mopa. Kippilzum hibide bikije nifemdu gassuodo nig jevjop be nucu ka rebcufo riewuzu sujinole bovolhab gaf jes ke. Efoka wobmuf gav se tozun nizavas pular olawto hup rawmufda za ki rittu zenesi tod odru."
+  },
+  "apiKey": "eb0b1cb934403a1dd43a3375601ba70b45360b9a4027398e250b0a091f8edb58",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
