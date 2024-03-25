@@ -1,0 +1,26 @@
+{
+  "name": "Daisy Townsend",
+  "age": 42,
+  "address": {
+    "street": "Jabcom Point",
+    "city": "Wuddiplus",
+    "state": "WV",
+    "zip": "78013"
+  },
+  "contact": {
+    "phone": "(642) 790-1814",
+    "servicePhone": "800681126"
+  },
+  "birthday": "1990-04-27T11:54:37.164Z",
+  "ip": "87.109.24.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Zafefim elaraleh zujerdad atje uzlura lu wam dofulu nenuk roupsin ikigi ehra fej. Wufra kardi anowe akava zebu nel up gatbi kirwu tu lit fo sigrafbo. Si patake ru veibe ikpav cu vulnukota git cocatuf ha la zareg re ruwtapik fajuk be co.",
+    "bio": "Pejdelow olu rus lugsa kim jadi eze ucoehli tutu igo hofov iba mefuseh fe. Om ce hekalu di ral sal da weruro abofi na tefen esabak. Jurnopiw venje hikuma ozepdo ripmu niba jug mohe emaojoube daatsa ruv evo gilcudrir fe ze wu atel fej."
+  },
+  "apiKey": "b9dfac4f674201ea52b5169e147027ac055b2f2b68dc650e8677a4f970970c0e",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
